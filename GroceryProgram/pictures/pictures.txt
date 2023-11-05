@@ -1,0 +1,5 @@
+The input for the grocery program can take different forms.
+1. Complete file path
+2. relative File path
+3. name.fileType if it is placed in the pictures folder
+4. name if it is placed in the pictures folder and is a .jpg
