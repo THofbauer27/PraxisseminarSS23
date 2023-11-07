@@ -1,4 +1,4 @@
-Pflichtenheft: Automatisierter Supermarktscanner mit Bilderkennungssystem
+^^^^^^^^^^^^^^Pflichtenheft: Automatisierter Supermarktscanner mit Bilderkennungssystem
 1. Projektziel und Zweck
 Das Hauptziel dieses Projekts ist die Entwicklung eines vollautomatisierten Supermarktscanners, der in der Lage ist, Produkte mithilfe einer integrierten Waage, eines Barcode-Scanners und eines automatisierten Bilderkennungssystems zu identifizieren und zu erfassen.
 2. Projektumfang
@@ -30,5 +30,5 @@ Maßnahmen zur Risikominderung: Kontinuierliche Tests und Validierung sowie enge
 Es wird erwartet, dass am Ende des Projekts Dokumentationen und Schulungsmaterialien erstellt werden, um die Benutzer des Supermarktscanners zu unterstützen.
 12. Verantwortlichkeiten
 Thomas Hofbauer ist für die Projektleitung verantwortlich.
-Stefan Röhrl ist für die Entwicklung und Implementierung der Software verantwortlich.
+Stefan Röhr ist für die Entwicklung und Implementierung der Software verantwortlich.
 
