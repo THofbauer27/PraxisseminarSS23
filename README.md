@@ -61,7 +61,7 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
         3. Name.fileType, wenn die Datei im Bilderordner abgelegt ist
         4. Name, wenn es sich im Bilderordner befindet und ein .jpg ist (nicht bei .JPG)
         Das Programm wird dann eine der folgenden Antworten geben.
-        -Wenn die Eingaben und das in den beiden Bildern erkannte Objekt übereinstimmen, wird das Programm 
+        -Wenn die Eingaben und das in den beiden Bildern erkannte Objekt übereinstimmen, gibt das Programm 
         den Preis des Produkts aus.
         -Wenn die Bilderkennung ein Objekt mit mehr als 60 % Sicherheit nicht finden konnte,
         Es wird geschrieben: "Kein Produkt erkannt". Aber wenn das Gewicht höher als 0 ist, wird es auch geschrieben:
