@@ -35,11 +35,13 @@ Installation of Yolov8
     The program will ask for four inputs. The BarcodeID, the Weight, the top image, and the side image
     -The BarcodeID can be 0-9 for the ten different Products. The Products are listed in the product.json 
     file, along with their BarcodeIDs. The BarcodeID -1 stands for no-barcode. Only if no-barcode is given 
-    will the Program use the image detection? This is to incorporate the change, as Prof. Dr. Wolff suggested, 
-    as to only use the Image detection for Products without Barcodes, like Fruits. Although some of the 
-    Products we trained the Image detection on do in fact have barcodes, like the can of tomatoes, when the 
-    BarcodeID -1 is entered, the program will pretend that they do not. This is done in order to simulate 
-    the approach Prof. Dr. Wolff suggested.
+    will the Program use the image detection? This is to incorporate the sugestion made during the Presentation, 
+    as to only use the Image detection for Products without Barcodes, like Fruits. Some of the 
+    Products we trained the Image detection on do in fact have barcodes, like the can of tomatoes, but when the 
+    BarcodeID -1 is entered, the program will pretend that they do not have Barcodes and are frute. 
+    This was done because we lacked the necessary time to replace 6400 Images of Barcode having products
+    with images of fruits. Not only would the Images have to be retaken, but they would also have to be relabeled 
+    and the AI would have to be retrained.
     -The weight. Since this is only a program and not the actual device, no scales are implemented and 
     the User enteres the weight by hand. The ranges of weights of the Products can again be found in 
     the product.json file.
