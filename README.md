@@ -37,7 +37,8 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
     langsam, aber für die Verwendung im GroceryProgramm sollte sie ausreichend sein.
     
 ## Wie man das Programm benutzt
-    Um das Lebensmittelscanningprogramm zu starten, öffnen Sie ein Befehlsterminal im Ordner GroceryProgram, in dem sich die Datei start.py befindet.
+    Um das Lebensmittelscanningprogramm zu starten, öffnen Sie ein Befehlsterminal im Ordner GroceryProgram, in dem sich 
+    die Datei start.py befindet.
     Eine Möglichkeit, das Programm zu starten, ist die Verwendung des folgenden Befehls:
         >>python start.py
     Das Programm fragt nach vier Eingaben. Die BarcodeID, das Gewicht, das obere Bild und das seitliche Bild
