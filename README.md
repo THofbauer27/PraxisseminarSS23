@@ -69,11 +69,11 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
         -Wenn mehr als ein Objekt in einem Bild erkannt wird, dann wird geschrieben: "Bitte legen Sie nur einen 
         Gegenstand auf einmal auf das Förderband legen."
         -Wenn für zwei Bilder unterschiedliche Objekte erkannt wurden, vergleicht das Programm die 
-        das Programm die Konfidenz der beiden Objekterkennungen, wobei es berücksichtigt, ob sie auch mit der Höhe übereinstimmen, die der 
-        die der Benutzer dem Programm gegeben hat. Abhängig von diesen beiden Kriterien wählt das Programm eines der 
-        zwei erkannten Objekte.
-        -Wenn das vom Benutzer angegebene Gewicht außerhalb des Bereichs des gewählten erkannten Objekts liegt, schreibt das Programm entweder 
-        schreibt das Programm entweder "Das Produkt ist zu leicht" oder "Das Produkt ist zu schwer". 
+        das Programm die Konfidenz der beiden Objekterkennungen, wobei es berücksichtigt, ob sie auch mit der Höhe 
+        übereinstimmen, die der die der Benutzer dem Programm gegeben hat. Abhängig von diesen beiden Kriterien wählt 
+        das Programm eines der zwei erkannten Objekte.
+        -Wenn das vom Benutzer angegebene Gewicht außerhalb des Bereichs des gewählten erkannten Objekts liegt, schreibt 
+        das Programm entweder schreibt das Programm entweder "Das Produkt ist zu leicht" oder "Das Produkt ist zu schwer". 
         der einzelnen Objekte sind auch in der Datei product.json zu finden.
         
 
