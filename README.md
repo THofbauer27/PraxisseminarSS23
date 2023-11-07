@@ -1,6 +1,6 @@
 # PraxisseminarSS23
-##Automatic Grocery Scanner
-###Inhalt:
+##  Automatic Grocery Scanner
+### Inhalt:
 -grocery programm enthält das eigentliche Programm, sowie das trainierte Modell des Projektes
 -Helper Programms: Zusätzliche Programme, die im Laufe des Projektes entstanden sind.
 -ImageDetectionValidationData: Die Validation, die am Ende des Trainings des models von Yolov8 erstellt wurde.
@@ -9,7 +9,7 @@
 
 
 
-##How to install the Program:
+## How to install the Program:
 In order to use the GroceryProgramm multiple prerequisites have to be met.
     1.The PC needs to be able to execute Python code.
     2.Yolov8 must be installed.
