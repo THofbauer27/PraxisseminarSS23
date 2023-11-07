@@ -2,9 +2,13 @@
 ##  Automatic Grocery Scanner
 ### Inhalt:
 -GroceryProgramm enthält das eigentliche Programm, sowie das trainierte Modell des Projektes
+
 -HelperProgramms: Zusätzliche Programme, die im Laufe des Projektes entstanden sind.
+
 -ImageDetectionValidationData: Die Validation, die am Ende des Trainings des models von Yolov8 erstellt wurde.
+
 -ValidationOfOurProgram: Enthält die Excel, die zur Validierung benutzt wurde, das Log der Command-Line Ausgaben und den Text zur Validierung
+
 -OrdnerDokumentation: Lastenheft, Pflichtenheft; Projektdokumentation_Praxisseminar; ProjektmanagementDokumentation;
 
 
