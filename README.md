@@ -23,7 +23,7 @@ Um das GroceryProgramm nutzen zu können, müssen mehrere Voraussetzungen erfül
       
 Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
 
-Installation von Yolov8
+### Installation von Yolov8
     Es gibt verschiedene Möglichkeiten, Yolov8 zu installieren. Sie sind auf der Ultralitics-Website zu finden: 
     [https://docs.ultralytics.com/quickstart/]
     Wenn der Computer pip-fähig ist, ist eine Möglichkeit, den Befehl einzugeben: "pip install ultralytics" 
