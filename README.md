@@ -26,8 +26,8 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
 ### Installation von Yolov8
     Es gibt verschiedene Möglichkeiten, Yolov8 zu installieren. Diese sind auf der Ultralitics-Website zu finden: 
     [https://docs.ultralytics.com/quickstart/]
-    Wenn der Computer pip-fähig ist, ist eine Möglichkeit, den Befehl einzugeben: "pip install ultralytics" 
-    in ein Shell- oder Python-Programm eingeben. yolov8 wird dann automatisch zusammen mit seinen Abhängigkeiten installiert.
+    Wenn der Computer pip-fähig ist, ist eine Möglichkeit, den Befehl: "pip install ultralytics" 
+    in eine Shell- oder ein Python-Programm einzugeben. yolov8 wird dann automatisch zusammen mit seinen Abhängigkeiten installiert.
     Um die Installation zu überprüfen, können die folgenden Befehle in Python verwendet werden.
         >>import torch
         >>torch.__version__
