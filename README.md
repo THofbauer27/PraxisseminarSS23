@@ -18,7 +18,8 @@
 Um das GroceryProgramm nutzen zu können, müssen mehrere Voraussetzungen erfüllt sein.
 
    1) Der PC muss Python-Code ausführen können.
-    2) Yolov8 muss installiert sein.
+    
+   2) Yolov8 muss installiert sein.
       
 Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
 
