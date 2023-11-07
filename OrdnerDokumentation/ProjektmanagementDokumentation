@@ -1,0 +1,54 @@
+Projektmanagement-Dokumentation
+•	Projektübersicht
+Projektname: Automatisierter Supermarktscanner mit Bilderkennungssystem
+Projektziel: Entwicklung eines vollautomatisierten Supermarktscanners, der Produkte im Supermarkt mithilfe von integrierter Waage, Barcode-Scanner und automatischem Bilderkennungssystem identifizieren kann.
+Auftraggeber(fiktiv): REWE Group
+Projektmanager: Hofbauer Thomas
+Geplante Dauer:  04.09.2023 - 07.11.2023
+2. Projektziele und Anforderungen
+Projektbeschreibung: Das Ziel des Projekts ist die Entwicklung eines vollautomatisierten Supermarktscanners, der Produkte anhand von Bildern erkennen kann.
+Produktbeschreibung:
+•	Hardware-Anforderungen: Der Scanner muss eine Waage und einen Barcode-Scanner integrieren, benutzerfreundlich und kompakt sein.
+•	Software-Anforderungen: Die Software muss eine präzise Bilderkennung ermöglichen und Produktinformationen darstellen.
+Qualitätsanforderungen: Das Produkt muss zuverlässig, fehlerfrei und schnell arbeiten. Die Bilderkennung muss hochgenau sein, und die Benutzeroberfläche benutzerfreundlich.
+Lieferbarkeiten: Der Auftragnehmer muss einen voll funktionsfähigen Scanner, Dokumentation und Schulungsmaterialien liefern.
+Akzeptanzkriterien: Der Scanner muss Produkte mit mindestens 95% Genauigkeit identifizieren können, die Hardware muss fehlerfrei sein, und die Benutzer müssen das Produkt ohne umfangreiche Schulungen bedienen können.
+Änderungskontrolle: Änderungen am Lastenheft müssen schriftlich genehmigt werden und können den Zeitplan und das Budget beeinflussen.
+3. Projektplan
+Aufgaben und Arbeitspakete: 
+•	Anforderungsanalyse und -definition
+•	Softwareanalyse und -definition
+•	Prototypen
+•	Erstellen der Bilder
+•	Software programmieren
+•	KI trainieren
+
+Meilensteine: 
+•	Anforderungsanalyse
+•	Software YOLOv8
+•	Prototyp gebaut
+•	Fertigstellen der Bilder
+•	KI trainiert und getestet
+4. Risikomanagement
+Identifizierte Risiken:
+•	Zu viele Produkte
+Strategien zur Risikominderung: 
+Zu viele Produkte: Spezialisierung auf Produkte ohne Barcode.
+5. Kommunikationsplan
+Kommunikationsziele: 
+•	Gegenseitige Unterstützung bei verschiedenen Meilensteinen.
+•	Vereinfachung der Aufgaben
+•	Bessere Übersicht der Aufgaben
+Kommunikationsmittel: 
+•	E-Mail
+•	Discord
+Häufigkeit: 
+•	Zu Beginn des Projektes Wöchentliche treffen
+•	Anschließend tägliche Calls in Discord
+6. Ressourcenmanagement
+Zeitmanagement: Aufgaben wurden identifiziert und begutachtet. Danach wurde jedes Team Mitglied befragt wie viel zeit dafür benötigt wird und anschließend diskutiert.
+Personalmanagement: Zu Beginn des Projektes wurde jedes Teammitglied befragt, wo es seine Stärken sieht, und anschließend wurden die Hauptaufgaben nach den Stärken der Team Mitglieder zugeteilt.
+Hofbauer Thomas übernahm das Projektmanagement und den Prototypen. Stefan Röhr übernahm den Programmierteil. 
+
+
+
