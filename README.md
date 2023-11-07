@@ -1,5 +1,15 @@
 # PraxisseminarSS23
--How to install the Program.
+##Automatic Grocery Scanner
+###Inhalt:
+-grocery programm enthält das eigentliche Programm, sowie das trainierte Modell des Projektes
+-Helper Programms: Zusätzliche Programme, die im Laufe des Projektes entstanden sind.
+-ImageDetectionValidationData: Die Validation, die am Ende des Trainings des models von Yolov8 erstellt wurde.
+-OrdnerDokumentation: Lastenheft, Pflichtenheft; Projektdokumentation_Praxisseminar; ProjektmanagementDokumentation; Validierung 
+
+
+
+
+##How to install the Program:
 In order to use the GroceryProgramm multiple prerequisites have to be met.
     1.The PC needs to be able to execute Python code.
     2.Yolov8 must be installed.
@@ -7,7 +17,7 @@ Otherwise, the grocery program can be immediately used.
 
 Installation of Yolov8
     There are different ways of installing Yolov8. They can be found on the Ultralitics website: 
-    https://docs.ultralytics.com/quickstart/
+    [https://docs.ultralytics.com/quickstart/]
     If the Computer is capable of using pip one way is to type the command: "pip install ultralytics" 
     in a Shell or Python program. yolov8 will automatically be installed along with its dependencies.
     To verify the installation, the following commands can be used in Python.
@@ -17,7 +27,7 @@ Installation of Yolov8
     contains cu it is the  version that can utilize the GPU. For training, the CPU version is 
     slow, but for use in the GroceryProgram it should be sufficient.
     
--How to use the Program
+##How to use the Program
     To Start the Grocery Program, open a command terminal in the GroceryProgram folder, where the start.py file is.
     One way to start the program is to use the following command:
         >>python start.py
@@ -56,10 +66,12 @@ Installation of Yolov8
         
 
 
-!!! Linux/Windows/Mac !!!
+#!!! Linux/Windows/Mac !!!
     The Program was developed for Linux, specifically Linux Mint 21.2 Cinnamon.
     For different operating systems like Windows or Mac, it might not work, since they have different Path structures.
      
-
+##Teammitglieder:
+Thomas Hofbauer
+Stefan Röhr
 
 
