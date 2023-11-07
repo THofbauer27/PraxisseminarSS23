@@ -38,7 +38,7 @@ Installation von Yolov8
     wird das Programm die Bilderkennung verwenden? Damit soll der Vorschlag aus der Präsentation umgesetzt werden, 
     nämlich die Bilderkennung nur für Produkte ohne Barcode, wie z.B. Obst, zu verwenden. Einige der 
     Produkte, für die wir die Bilderkennung trainiert haben, haben tatsächlich Barcodes, wie die Tomatendose, aber wenn die 
-    BarcodeID -1 eingegeben wird, tut das Programm so, als hätten sie keine Strichcodes und seien frittiert. 
+    BarcodeID -1 eingegeben wird, tut das Programm so, als hätten sie keine Strichcodes und seien Früchte. 
     Dies geschah, weil uns die nötige Zeit fehlte, um 6400 Bilder von Produkten mit Barcode
     durch Bilder von Früchten zu ersetzen. Die Bilder müssten nicht nur neu aufgenommen werden, sondern auch neu beschriftet werden 
     und die KI müsste neu trainiert werden.
