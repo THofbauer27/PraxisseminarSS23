@@ -1,0 +1,1904 @@
+﻿Barcode: 
+-1
+Wheight: 
+0.1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112154.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112027.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112154.jpg: 640x480 1 AppleR, 74.2ms
+Speed: 2.1ms preprocess, 74.2ms inference, 223.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112027.jpg: 640x480 1 AppleR, 13.8ms
+Speed: 2.2ms preprocess, 13.8ms inference, 0.9ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8638281226158142Side image confidence0.8920279741287231
+AppleR
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.13
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112448.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112034.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112448.jpg: 640x480 1 AppleR, 74.0ms
+Speed: 2.0ms preprocess, 74.0ms inference, 246.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112034.jpg: 640x480 1 AppleR, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8679535388946533Side image confidence0.8934586048126221
+AppleR
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.12
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112858.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112042.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112858.jpg: 640x480 1 AppleR, 73.4ms
+Speed: 2.1ms preprocess, 73.4ms inference, 267.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112042.jpg: 640x480 1 AppleR, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8779321312904358Side image confidence0.8884774446487427
+AppleR
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.11
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112949.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112214.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112949.jpg: 640x480 1 AppleR, 72.7ms
+Speed: 2.5ms preprocess, 72.7ms inference, 218.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112214.jpg: 640x480 1 AppleR, 13.6ms
+Speed: 2.1ms preprocess, 13.6ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.863265872001648Side image confidence0.8745678067207336
+AppleR
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.05
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_113037.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112221.jpg
+
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_113037.jpg: 640x480 1 AppleR, 73.4ms
+Speed: 2.1ms preprocess, 73.4ms inference, 236.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112221.jpg: 640x480 1 AppleR, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8655917644500732Side image confidence0.8654295802116394
+AppleR
+Product is to light
+(base) stefan@stefan-desktop:~/Desktop/Praxisseminar/Programms/Programme$ 
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.09
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_113046.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112229.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_113046.jpg: 640x480 1 AppleR, 73.4ms
+Speed: 2.2ms preprocess, 73.4ms inference, 221.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112229.jpg: 640x480 1 AppleR, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8537590503692627Side image confidence0.9029661417007446
+AppleR
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.112
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_113123.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112323 (copy).jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_113123.jpg: 640x480 1 AppleR, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 230.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112323 (copy).jpg: 640x480 1 AppleR, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.863932728767395Side image confidence0.8769670128822327
+AppleR
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_113308.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112644.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_113308.jpg: 640x480 1 AppleR, 73.2ms
+Speed: 2.0ms preprocess, 73.2ms inference, 220.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112644.jpg: 640x480 1 AppleR, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8573952913284302Side image confidence0.892730176448822
+AppleR
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_113321.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112646.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_113321.jpg: 640x480 1 AppleR, 75.2ms
+Speed: 2.1ms preprocess, 75.2ms inference, 216.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112646.jpg: 640x480 1 AppleR, 13.8ms
+Speed: 2.1ms preprocess, 13.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8617390394210815Side image confidence0.8930279612541199
+AppleR
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.12
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_113458.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_112712.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_113458.jpg: 640x480 1 AppleR, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 264.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_112712.jpg: 640x480 1 AppleR, 13.3ms
+Speed: 2.1ms preprocess, 13.3ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.872631847858429Side image confidence0.9288976192474365
+AppleR
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182158.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181058.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182158.jpg: 640x480 1 AppleG, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 234.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181058.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7922506928443909Side image confidence0.8658816814422607
+AppleG
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.13
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182203.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181132.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182203.jpg: 640x480 1 AppleG, 74.2ms
+Speed: 2.0ms preprocess, 74.2ms inference, 215.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181132.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8139803409576416Side image confidence0.8675113916397095
+AppleG
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.12
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182257.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181236.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182257.jpg: 640x480 1 AppleG, 74.4ms
+Speed: 2.0ms preprocess, 74.4ms inference, 268.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181236.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7649989128112793Side image confidence0.8601732850074768
+AppleG
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.11
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182338.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181254.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182338.jpg: 640x480 1 AppleG, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 228.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181254.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8077828884124756Side image confidence0.8356500864028931
+AppleG
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.05
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182400.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181335.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182400.jpg: 640x480 1 AppleG, 72.3ms
+Speed: 2.0ms preprocess, 72.3ms inference, 232.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181335.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8278224468231201Side image confidence0.8229613304138184
+AppleG
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.09
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182532.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181406.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182532.jpg: 640x480 1 AppleG, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 221.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181406.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7854189872741699Side image confidence0.8588479161262512
+AppleG
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.112
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182606.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181420.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182606.jpg: 640x480 1 AppleG, 73.2ms
+Speed: 2.0ms preprocess, 73.2ms inference, 287.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181420.jpg: 640x480 1 AppleG, 13.4ms
+Speed: 2.1ms preprocess, 13.4ms inference, 1.1ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7965772747993469Side image confidence0.8746395707130432
+AppleG
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182717.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181426.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182717.jpg: 640x480 1 AppleG, 73.5ms
+Speed: 2.1ms preprocess, 73.5ms inference, 234.7ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181426.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8156147003173828Side image confidence0.8525433540344238
+AppleG
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182828.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181436.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182828.jpg: 640x480 1 AppleG, 72.2ms
+Speed: 2.0ms preprocess, 72.2ms inference, 217.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181436.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7632622122764587Side image confidence0.8632038235664368
+AppleG
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.12
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_182858.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_181607.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_182858.jpg: 640x480 1 AppleG, 73.6ms
+Speed: 2.1ms preprocess, 73.6ms inference, 225.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_181607.jpg: 640x480 1 AppleG, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7932520508766174Side image confidence0.8464712500572205
+AppleG
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_103344.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_103505.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_103344.jpg: 640x480 1 DoseTomate, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 217.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_103505.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.864629864692688Side image confidence0.9052854180335999
+DoseTomate
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.7
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_103616.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_103714.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_103616.jpg: 640x480 1 DoseTomate, 72.8ms
+Speed: 2.2ms preprocess, 72.8ms inference, 226.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_103714.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8543903827667236Side image confidence0.8895838856697083
+DoseTomate
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.6
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_103703.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_103736.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_103703.jpg: 640x480 1 DoseTomate, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 241.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_103736.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8247653841972351Side image confidence0.8757208585739136
+DoseTomate
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.55
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104115.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104554.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104115.jpg: 640x480 1 DoseTomate, 73.5ms
+Speed: 2.1ms preprocess, 73.5ms inference, 231.7ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104554.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8660476803779602Side image confidence0.8939321041107178
+DoseTomate
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104915.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104601.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104915.jpg: 640x480 1 DoseTomate, 73.3ms
+Speed: 2.0ms preprocess, 73.3ms inference, 222.2ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104601.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8440603613853455Side image confidence0.8775762319564819
+DoseTomate
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_105435.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104712.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_105435.jpg: 640x480 1 DoseTomate, 72.8ms
+Speed: 2.0ms preprocess, 72.8ms inference, 239.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104712.jpg: 640x480 1 DoseTomate, 12.9ms
+Speed: 2.1ms preprocess, 12.9ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8587937355041504Side image confidence0.880636990070343
+DoseTomate
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.56
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_105606.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104716.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_105606.jpg: 640x480 1 DoseTomate, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 226.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104716.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8796977996826172Side image confidence0.8981528878211975
+DoseTomate
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.4
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_105936.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104732.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_105936.jpg: 640x480 1 DoseTomate, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 255.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104732.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8419948816299438Side image confidence0.8986989855766296
+DoseTomate
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.9
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_131704.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104745.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_131704.jpg: 640x480 1 DoseTomate, 72.8ms
+Speed: 2.0ms preprocess, 72.8ms inference, 255.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104745.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8662362098693848Side image confidence0.8608664274215698
+DoseTomate
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.54
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_131710.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_104809.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_131710.jpg: 640x480 1 DoseTomate, 72.4ms
+Speed: 2.0ms preprocess, 72.4ms inference, 233.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_104809.jpg: 640x480 1 DoseTomate, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.822638213634491Side image confidence0.8908440470695496
+DoseTomate
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.4
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110343.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110217.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110343.jpg: 640x480 1 DoseWok, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 223.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110217.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.831713855266571Side image confidence0.9005857706069946
+DoseWok
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110738.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110256.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110738.jpg: 640x480 1 DoseWok, 73.4ms
+Speed: 2.0ms preprocess, 73.4ms inference, 232.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110256.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 1.0ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.817957878112793Side image confidence0.8691568970680237
+DoseWok
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110923.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110301.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110923.jpg: 640x480 1 DoseWok, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 224.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110301.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8556727170944214Side image confidence0.8752366900444031
+DoseWok
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.45
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111330.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110354.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111330.jpg: 640x480 1 DoseWok, 72.4ms
+Speed: 2.0ms preprocess, 72.4ms inference, 280.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110354.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8654744625091553Side image confidence0.8985289931297302
+DoseWok
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111440.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110634.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111440.jpg: 640x480 1 DoseWok, 73.0ms
+Speed: 2.1ms preprocess, 73.0ms inference, 223.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110634.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8513714671134949Side image confidence0.8670599460601807
+DoseWok
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.6
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111529.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_110917.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111529.jpg: 640x480 1 DoseWok, 73.7ms
+Speed: 2.0ms preprocess, 73.7ms inference, 220.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_110917.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8526073098182678Side image confidence0.8325912952423096
+DoseWok
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.43
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111557.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111138.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111557.jpg: 640x480 1 DoseWok, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 232.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111138.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8400549292564392Side image confidence0.8753408789634705
+DoseWok
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111709.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111205.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111709.jpg: 640x480 1 DoseWok, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 225.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111205.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8616352081298828Side image confidence0.8674145340919495
+DoseWok
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.9
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111723.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111232.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111723.jpg: 640x480 1 DoseWok, 72.7ms
+Speed: 2.0ms preprocess, 72.7ms inference, 242.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111232.jpg: 640x480 1 DoseWok, 12.8ms
+Speed: 2.2ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8486534953117371Side image confidence0.849126935005188
+DoseWok
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.41
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_124737.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_111425.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_124737.jpg: 480x640 1 DoseWok, 76.6ms
+Speed: 2.0ms preprocess, 76.6ms inference, 219.1ms postprocess per image at shape (1, 3, 480, 640)
+
+Invalid SOS parameters for sequential JPEG
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_111425.jpg: 640x480 1 DoseWok, 70.6ms
+Speed: 2.0ms preprocess, 70.6ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8587779998779297Side image confidence0.762809157371521
+DoseWok
+Product costs: 0.9
+
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_145518.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_101544.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_145518.jpg: 480x640 1 Vollmilch, 73.6ms
+Speed: 2.0ms preprocess, 73.6ms inference, 232.6ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_101544.jpg: 640x480 1 Vollmilch, 70.6ms
+Speed: 2.0ms preprocess, 70.6ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7873693704605103Side image confidence0.8954148292541504
+Vollmilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_145536.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102044.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_145536.jpg: 480x640 1 Vollmilch, 73.8ms
+Speed: 2.1ms preprocess, 73.8ms inference, 240.5ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102044.jpg: 640x480 1 Vollmilch, 71.0ms
+Speed: 2.0ms preprocess, 71.0ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8307934403419495Side image confidence0.8839357495307922
+Vollmilch
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.2
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_145939.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102048.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_145939.jpg: 480x640 1 Vollmilch, 74.2ms
+Speed: 2.0ms preprocess, 74.2ms inference, 227.2ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102048.jpg: 640x480 1 Vollmilch, 70.6ms
+Speed: 2.0ms preprocess, 70.6ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8767544031143188Side image confidence0.88387531042099
+Vollmilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_145955.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102106.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_145955.jpg: 480x640 1 Vollmilch, 73.8ms
+Speed: 2.0ms preprocess, 73.8ms inference, 237.5ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102106.jpg: 640x480 1 Vollmilch, 71.3ms
+Speed: 2.0ms preprocess, 71.3ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8956772685050964Side image confidence0.8922562599182129
+Vollmilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+4
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_150010.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102145.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_150010.jpg: 480x640 1 Vollmilch, 88.3ms
+Speed: 3.1ms preprocess, 88.3ms inference, 257.5ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102145.jpg: 640x480 1 Vollmilch, 70.7ms
+Speed: 2.0ms preprocess, 70.7ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8943103551864624Side image confidence0.9207783937454224
+Vollmilch
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.3
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_150046.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102158.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_150046.jpg: 480x640 1 Vollmilch, 73.6ms
+Speed: 2.0ms preprocess, 73.6ms inference, 216.9ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102158.jpg: 640x480 1 Vollmilch, 70.4ms
+Speed: 2.0ms preprocess, 70.4ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8836258053779602Side image confidence0.9040653109550476
+Vollmilch
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.15
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_150205.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102311.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_150205.jpg: 480x640 1 Vollmilch, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 233.7ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102311.jpg: 640x480 1 Vollmilch, 70.6ms
+Speed: 2.0ms preprocess, 70.6ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.864909291267395Side image confidence0.8881650567054749
+Vollmilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_150435.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102317.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_150435.jpg: 480x640 1 Vollmilch, 73.7ms
+Speed: 2.0ms preprocess, 73.7ms inference, 234.4ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102317.jpg: 640x480 1 Vollmilch, 71.0ms
+Speed: 2.0ms preprocess, 71.0ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8832914233207703Side image confidence0.9052245020866394
+Vollmilch
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+2
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_150448.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102421.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_150448.jpg: 480x640 1 Vollmilch, 73.5ms
+Speed: 2.0ms preprocess, 73.5ms inference, 234.8ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102421.jpg: 640x480 1 Vollmilch, 71.0ms
+Speed: 2.0ms preprocess, 71.0ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8857258558273315Side image confidence0.8563947081565857
+Vollmilch
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.02
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230814_150459.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230815_102428.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230814_150459.jpg: 480x640 1 Vollmilch, 73.5ms
+Speed: 2.0ms preprocess, 73.5ms inference, 239.5ms postprocess per image at shape (1, 3, 480, 640)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230815_102428.jpg: 640x480 1 Vollmilch, 70.3ms
+Speed: 2.0ms preprocess, 70.3ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8900878429412842Side image confidence0.8294571042060852
+Vollmilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_172921.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_172918.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_172921.jpg: 640x480 1 Hafermilch, 72.9ms
+Speed: 2.1ms preprocess, 72.9ms inference, 227.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_172918.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.829351544380188Side image confidence0.8777795433998108
+Hafermilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173110.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173013 (copy).jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173110.jpg: 640x480 1 Hafermilch, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 220.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173013 (copy).jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 1.9ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.84535813331604Side image confidence0.8741579055786133
+Hafermilch
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173158.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173052.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173158.jpg: 640x480 1 Hafermilch, 73.1ms
+Speed: 2.1ms preprocess, 73.1ms inference, 242.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173052.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8145848512649536Side image confidence0.8548088669776917
+Hafermilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.05
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173204.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173244.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173204.jpg: 640x480 1 Hafermilch, 73.1ms
+Speed: 2.1ms preprocess, 73.1ms inference, 257.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173244.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.829168975353241Side image confidence0.8499459624290466
+Hafermilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173253.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173303.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173253.jpg: 640x480 1 Hafermilch, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 248.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173303.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8585432767868042Side image confidence0.8681297898292542
+Hafermilch
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.7
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173633.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173310.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173633.jpg: 640x480 1 Hafermilch, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 225.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173310.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8562577366828918Side image confidence0.8585805892944336
+Hafermilch
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173657.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173409.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173657.jpg: 640x480 1 Hafermilch, 72.4ms
+Speed: 2.0ms preprocess, 72.4ms inference, 235.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173409.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8220216035842896Side image confidence0.8835242986679077
+Hafermilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173732.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173423.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173732.jpg: 640x480 1 Hafermilch, 72.7ms
+Speed: 2.5ms preprocess, 72.7ms inference, 239.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173423.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8357927799224854Side image confidence0.9209272265434265
+Hafermilch
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.3
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173925.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173436.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173925.jpg: 640x480 1 Hafermilch, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 241.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173436.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8395957946777344Side image confidence0.8705225586891174
+Hafermilch
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1.08
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173948.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20230822_173533.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173948.jpg: 640x480 1 Hafermilch, 72.3ms
+Speed: 2.0ms preprocess, 72.3ms inference, 212.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20230822_173533.jpg: 640x480 1 Hafermilch, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8579759001731873Side image confidence0.8513636589050293
+Hafermilch
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.7
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_154300.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155456.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_154300.jpg: 640x480 1 CornflakesJa, 73.3ms
+Speed: 2.1ms preprocess, 73.3ms inference, 218.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155456.jpg: 640x480 1 CornflakesJa, 13.0ms
+Speed: 2.0ms preprocess, 13.0ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.906367301940918Side image confidence0.9072822332382202
+CornflakesJa
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_154320.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155520.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_154320.jpg: 640x480 1 CornflakesJa, 73.4ms
+Speed: 2.1ms preprocess, 73.4ms inference, 235.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155520.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 2.1ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8922059535980225Side image confidence0.9137548208236694
+CornflakesJa
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.76
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_154729.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155524.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_154729.jpg: 640x480 1 CornflakesJa, 74.1ms
+Speed: 2.0ms preprocess, 74.1ms inference, 229.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155524.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9125133156776428Side image confidence0.909485936164856
+CornflakesJa
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.73
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_154850.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155619.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_154850.jpg: 640x480 1 CornflakesJa, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 231.7ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155619.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9048746824264526Side image confidence0.8699922561645508
+CornflakesJa
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155042.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155624.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155042.jpg: 640x480 1 CornflakesJa, 73.0ms
+Speed: 2.1ms preprocess, 73.0ms inference, 230.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155624.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9004197716712952Side image confidence0.8594352602958679
+CornflakesJa
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.77
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155114.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155637.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155114.jpg: 640x480 1 CornflakesJa, 74.8ms
+Speed: 2.1ms preprocess, 74.8ms inference, 221.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155637.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9026544690132141Side image confidence0.91803377866745
+CornflakesJa
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.71
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155417.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155940.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155417.jpg: 640x480 1 CornflakesJa, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 219.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155940.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9102826714515686Side image confidence0.8927669525146484
+CornflakesJa
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.3
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155420.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155954.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155420.jpg: 640x480 1 CornflakesJa, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 235.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155954.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9055315852165222Side image confidence0.9181588888168335
+CornflakesJa
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+2
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155425.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_160042.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155425.jpg: 640x480 1 CornflakesJa, 73.5ms
+Speed: 2.0ms preprocess, 73.5ms inference, 229.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_160042.jpg: 640x480 1 CornflakesJa, 14.4ms
+Speed: 2.0ms preprocess, 14.4ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9130621552467346Side image confidence0.9070144295692444
+CornflakesJa
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.75
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_155452.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_160046.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_155452.jpg: 640x480 1 CornflakesJa, 73.0ms
+Speed: 2.1ms preprocess, 73.0ms inference, 245.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_160046.jpg: 640x480 1 CornflakesJa, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9215274453163147Side image confidence0.9123770594596863
+CornflakesJa
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_145824.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151327.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_145824.jpg: 640x480 1 CornflakesDr, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 223.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151327.jpg: 640x480 1 CornflakesDr, 14.4ms
+Speed: 2.0ms preprocess, 14.4ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8168837428092957Side image confidence0.9123033285140991
+CornflakesDr
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_145839.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151352.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_145839.jpg: 640x480 1 CornflakesDr, 72.8ms
+Speed: 2.0ms preprocess, 72.8ms inference, 239.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151352.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8995660543441772Side image confidence0.8638063073158264
+CornflakesDr
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.55
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150314.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151359.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150314.jpg: 640x480 1 CornflakesDr, 72.7ms
+Speed: 2.0ms preprocess, 72.7ms inference, 220.7ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151359.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8119982481002808Side image confidence0.8399178385734558
+CornflakesDr
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.52
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150540.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151544.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150540.jpg: 640x480 1 CornflakesDr, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 218.7ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151544.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8919060230255127Side image confidence0.9070602059364319
+CornflakesDr
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150656.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151857.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150656.jpg: 640x480 1 CornflakesDr, 73.2ms
+Speed: 2.1ms preprocess, 73.2ms inference, 229.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151857.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9086087942123413Side image confidence0.8920274376869202
+CornflakesDr
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.4
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150749.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_152314.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150749.jpg: 640x480 1 CornflakesDr, 72.6ms
+Speed: 2.0ms preprocess, 72.6ms inference, 218.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_152314.jpg: 640x480 1 CornflakesDr, 13.4ms
+Speed: 1.9ms preprocess, 13.4ms inference, 0.9ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8632088303565979Side image confidence0.883435070514679
+CornflakesDr
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.51
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150836.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_152415.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150836.jpg: 640x480 1 CornflakesDr, 72.3ms
+Speed: 2.0ms preprocess, 72.3ms inference, 237.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_152415.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8569629192352295Side image confidence0.9115946292877197
+CornflakesDr
+Product costs: 0.9
+--------------------------------------------------------------------------
+-Barcode: 
+-1
+Wheight: 
+1.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150933.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_152433.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150933.jpg: 640x480 1 CornflakesDr, 72.3ms
+Speed: 2.5ms preprocess, 72.3ms inference, 233.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_152433.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8928657174110413Side image confidence0.9110717177391052
+CornflakesDr
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.56
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150939.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151327.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150939.jpg: 640x480 1 CornflakesDr, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 214.3ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151327.jpg: 640x480 1 CornflakesDr, 12.9ms
+Speed: 1.9ms preprocess, 12.9ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8877000212669373Side image confidence0.9123033285140991
+CornflakesDr
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.54
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_151211.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_150540.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_151211.jpg: 640x480 1 CornflakesDr, 72.6ms
+Speed: 2.0ms preprocess, 72.6ms inference, 232.2ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_150540.jpg: 640x480 1 CornflakesDr, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.9046262502670288Side image confidence0.8919060230255127
+CornflakesDr
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.6
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170204.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_171034.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170204.jpg: 640x480 1 NudelnBarilla, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 217.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_171034.jpg: 640x480 1 NudelnBarilla, 13.6ms
+Speed: 2.0ms preprocess, 13.6ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8129614591598511Side image confidence0.8595001697540283
+NudelnBarilla
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170340.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_171228.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170340.jpg: 640x480 1 NudelnBarilla, 72.4ms
+Speed: 2.0ms preprocess, 72.4ms inference, 226.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_171228.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8056716322898865Side image confidence0.8370444774627686
+NudelnBarilla
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.66
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170359.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_171352.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170359.jpg: 640x480 1 NudelnBarilla, 73.2ms
+Speed: 2.0ms preprocess, 73.2ms inference, 224.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_171352.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8838950991630554Side image confidence0.8426438570022583
+NudelnBarilla
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.63
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170409.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_171431.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170409.jpg: 640x480 1 NudelnBarilla, 73.4ms
+Speed: 2.1ms preprocess, 73.4ms inference, 228.5ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_171431.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8604322075843811Side image confidence0.8087774515151978
+NudelnBarilla
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170431.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_172829.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170431.jpg: 640x480 1 NudelnBarilla, 74.1ms
+Speed: 2.1ms preprocess, 74.1ms inference, 219.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_172829.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 1.1ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8680077195167542Side image confidence0.8696136474609375
+NudelnBarilla
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.67
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170449.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_172848.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170449.jpg: 640x480 1 NudelnBarilla, 72.6ms
+Speed: 2.1ms preprocess, 72.6ms inference, 218.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_172848.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8328263163566589Side image confidence0.8447464108467102
+NudelnBarilla
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.61
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170716.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_173337.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170716.jpg: 640x480 1 NudelnBarilla, 73.0ms
+Speed: 2.0ms preprocess, 73.0ms inference, 242.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_173337.jpg: 640x480 1 NudelnBarilla, 13.5ms
+Speed: 2.0ms preprocess, 13.5ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8888252973556519Side image confidence0.8340198397636414
+NudelnBarilla
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.7
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170807.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_173431.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170807.jpg: 640x480 1 NudelnBarilla, 73.8ms
+Speed: 2.1ms preprocess, 73.8ms inference, 275.2ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_173431.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.856276273727417Side image confidence0.8638985753059387
+NudelnBarilla
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.4
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_170930.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_173516.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_170930.jpg: 640x480 1 NudelnBarilla, 73.7ms
+Speed: 2.1ms preprocess, 73.7ms inference, 213.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_173516.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8719290494918823Side image confidence0.8482876420021057
+NudelnBarilla
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.65
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_171008.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_173533.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_171008.jpg: 640x480 1 NudelnBarilla, 73.6ms
+Speed: 2.5ms preprocess, 73.6ms inference, 225.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_173533.jpg: 640x480 1 NudelnBarilla, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8869525194168091Side image confidence0.8497774600982666
+NudelnBarilla
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.5
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181109.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182016.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181109.jpg: 640x480 1 NudelnBernbacher, 73.5ms
+Speed: 2.0ms preprocess, 73.5ms inference, 217.2ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182016.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.6295205354690552Side image confidence0.7121772766113281
+NudelnBernbacher
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181123.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182045.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181123.jpg: 640x480 1 NudelnBernbacher, 73.3ms
+Speed: 2.1ms preprocess, 73.3ms inference, 246.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182045.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.6856597065925598Side image confidence0.7557104229927063
+NudelnBernbacher
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.6
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181223.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182152.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181223.jpg: 640x480 1 NudelnBernbacher, 73.1ms
+Speed: 2.0ms preprocess, 73.1ms inference, 234.0ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182152.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8482447862625122Side image confidence0.7257190346717834
+NudelnBernbacher
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.55
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181229.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182345.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181229.jpg: 640x480 1 NudelnBernbacher, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 233.7ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182345.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8138821125030518Side image confidence0.7601145505905151
+NudelnBernbacher
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+1
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181356.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182400.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181356.jpg: 640x480 1 NudelnBernbacher, 73.4ms
+Speed: 2.0ms preprocess, 73.4ms inference, 226.4ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182400.jpg: 640x480 1 NudelnBernbacher, 12.9ms
+Speed: 1.9ms preprocess, 12.9ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7947392463684082Side image confidence0.7793748378753662
+NudelnBernbacher
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.4
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181655.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182840.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181655.jpg: 640x480 1 NudelnBernbacher, 73.2ms
+Speed: 2.1ms preprocess, 73.2ms inference, 226.8ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182840.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8017653822898865Side image confidence0.7189215421676636
+NudelnBernbacher
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.51
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181702.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182847.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181702.jpg: 640x480 1 NudelnBernbacher, 72.9ms
+Speed: 2.0ms preprocess, 72.9ms inference, 226.9ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182847.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7511597275733948Side image confidence0.7284950613975525
+NudelnBernbacher
+Product costs: 0.9
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.61
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181808.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182919.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181808.jpg: 640x480 1 NudelnBernbacher, 72.5ms
+Speed: 2.0ms preprocess, 72.5ms inference, 221.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182919.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 2.0ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8434075117111206Side image confidence0.851124107837677
+NudelnBernbacher
+Product is to heavy
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.49
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_181835.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_183045.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_181835.jpg: 640x480 1 NudelnBernbacher, 74.3ms
+Speed: 2.0ms preprocess, 74.3ms inference, 222.1ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_183045.jpg: 640x480 1 NudelnBernbacher, 13.1ms
+Speed: 2.0ms preprocess, 13.1ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.8197140097618103Side image confidence0.7803887128829956
+NudelnBernbacher
+Product is to light
+--------------------------------------------------------------------------
+Barcode: 
+-1
+Wheight: 
+0.59
+Top Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182009.jpg
+Side Image
+/home/stefan/Desktop/yolo/output2/images/test/20231006_182345.jpg
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182009.jpg: 640x480 1 NudelnBernbacher, 72.8ms
+Speed: 2.0ms preprocess, 72.8ms inference, 220.6ms postprocess per image at shape (1, 3, 640, 480)
+
+image 1/1 /home/stefan/Desktop/yolo/output2/images/test/20231006_182345.jpg: 640x480 1 NudelnBernbacher, 12.8ms
+Speed: 1.9ms preprocess, 12.8ms inference, 0.8ms postprocess per image at shape (1, 3, 640, 480)
+
+Top imgae confidence:0.7101758718490601Side image confidence0.7601145505905151
+NudelnBernbacher
+Product costs: 0.9
+
