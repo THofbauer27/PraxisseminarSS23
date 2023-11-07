@@ -27,7 +27,7 @@ Installation of Yolov8
     contains cu it is the  version that can utilize the GPU. For training, the CPU version is 
     slow, but for use in the GroceryProgram it should be sufficient.
     
-##How to use the Program
+## How to use the Program
     To Start the Grocery Program, open a command terminal in the GroceryProgram folder, where the start.py file is.
     One way to start the program is to use the following command:
         >>python start.py
@@ -66,11 +66,11 @@ Installation of Yolov8
         
 
 
-#!!! Linux/Windows/Mac !!!
+# !!! Linux/Windows/Mac !!!
     The Program was developed for Linux, specifically Linux Mint 21.2 Cinnamon.
     For different operating systems like Windows or Mac, it might not work, since they have different Path structures.
      
-##Teammitglieder:
+## Teammitglieder:
 Thomas Hofbauer
 Stefan Röhr
 
