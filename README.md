@@ -72,9 +72,9 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
         der beiden Objekterkennungen, wobei es berücksichtigt, ob sie auch mit der Gewichtsangabe
         übereinstimmen, die der die der Benutzer dem Programm gegeben hat. Abhängig von diesen beiden Kriterien wählt 
         das Programm eines der zwei erkannten Objekte.
-        -Wenn das vom Benutzer angegebene Gewicht außerhalb des Bereichs des gewählten erkannten Objekts liegt, schreibt 
-        das Programm entweder schreibt das Programm entweder "Das Produkt ist zu leicht" oder "Das Produkt ist zu schwer". 
-        der einzelnen Objekte sind auch in der Datei product.json zu finden.
+        -Wenn das vom Benutzer angegebene Gewicht außerhalb des Bereichs des vom Programm gewählten erkannten Objekts liegt, schreibt 
+        das Programm entweder,"Das Produkt ist zu leicht" oder "Das Produkt ist zu schwer". 
+        Die gewichts bereiche der einzelnen Objekte sind auch in der Datei product.json zu finden.
         
 
 
