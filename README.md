@@ -16,9 +16,11 @@
 
 ## So wird das Programm installiert:
 Um das GroceryProgramm nutzen zu können, müssen mehrere Voraussetzungen erfüllt sein.
+
    1) Der PC muss Python-Code ausführen können.
     2) Yolov8 muss installiert sein.
-Ansonsten kann das Lebensmittelprogramm sofort verwendet werden.
+      
+Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
 
 Installation von Yolov8
     Es gibt verschiedene Möglichkeiten, Yolov8 zu installieren. Sie sind auf der Ultralitics-Website zu finden: 
