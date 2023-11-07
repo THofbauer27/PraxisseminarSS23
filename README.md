@@ -63,13 +63,13 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
         Das Programm wird dann eine der folgenden Antworten geben.
         -Wenn die Eingaben und das in den beiden Bildern erkannte Objekt übereinstimmen, gibt das Programm 
         den Preis des Produkts aus.
-        -Wenn die Bilderkennung ein Objekt mit mehr als 60 % Sicherheit nicht finden konnte,
-        Es wird geschrieben: "Kein Produkt erkannt". Aber wenn das Gewicht höher als 0 ist, wird es auch geschrieben:
+        -Wenn die Bilderkennung sich bei beiden Bildern nicht mit mehr als 60 % sicher ist,
+        wird geschrieben: "Kein Produkt erkannt". Aber wenn das Gewicht höher als 0 ist, wird auch noch geschrieben:
         "Aber die Waage wurde aktiviert."
-        -Wenn mehr als ein Objekt in einem Bild erkannt wird, dann wird geschrieben: "Bitte legen Sie nur einen 
+        -Wenn mehr als ein Objekt in einem Bild erkannt wird, wird geschrieben: "Bitte legen Sie nur einen 
         Gegenstand auf einmal auf das Förderband legen."
-        -Wenn für zwei Bilder unterschiedliche Objekte erkannt wurden, vergleicht das Programm die 
-        das Programm die Konfidenz der beiden Objekterkennungen, wobei es berücksichtigt, ob sie auch mit der Höhe 
+        -Wenn für zwei Bilder unterschiedliche Objekte erkannt wurden, vergleicht das Programm die Zuversicht 
+        der beiden Objekterkennungen, wobei es berücksichtigt, ob sie auch mit der Gewichtsangabe
         übereinstimmen, die der die der Benutzer dem Programm gegeben hat. Abhängig von diesen beiden Kriterien wählt 
         das Programm eines der zwei erkannten Objekte.
         -Wenn das vom Benutzer angegebene Gewicht außerhalb des Bereichs des gewählten erkannten Objekts liegt, schreibt 
