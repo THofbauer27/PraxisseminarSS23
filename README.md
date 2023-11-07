@@ -4,7 +4,8 @@
 -grocery programm enthält das eigentliche Programm, sowie das trainierte Modell des Projektes
 -Helper Programms: Zusätzliche Programme, die im Laufe des Projektes entstanden sind.
 -ImageDetectionValidationData: Die Validation, die am Ende des Trainings des models von Yolov8 erstellt wurde.
--OrdnerDokumentation: Lastenheft, Pflichtenheft; Projektdokumentation_Praxisseminar; ProjektmanagementDokumentation; Validierung 
+-ValidationOfOurProgram: Enthält die Excel, die zur Validierung benutzt wurde, das Log der Command-Line Ausgaben und den Text zur Validierung
+-OrdnerDokumentation: Lastenheft, Pflichtenheft; Projektdokumentation_Praxisseminar; ProjektmanagementDokumentation;
 
 
 
@@ -66,9 +67,9 @@ Installation of Yolov8
         
 
 
-# !!! Linux/Windows/Mac !!!
+# !!! Linux!!!
     The Program was developed for Linux, specifically Linux Mint 21.2 Cinnamon.
-    For different operating systems like Windows or Mac, it might not work, since they have different Path structures.
+    For different operating systems like Windows or Mac, it will likely not work, since they have different Path structures.
      
 ## Teammitglieder:
 Thomas Hofbauer
