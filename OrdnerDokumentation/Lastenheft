@@ -1,0 +1,33 @@
+Lastenheft: Automatisierter Supermarktscanner mit Bilderkennungssystem
+1. Projektbeschreibung
+Das Projekt hat das Ziel, einen vollautomatisierten Supermarktscanner mit Bilderkennungssystem zu entwickeln. Dieses Lastenheft definiert die Anforderungen und Erwartungen aus Sicht des Auftraggebers.
+2. Produktbeschreibung
+Das Endprodukt soll in der Lage sein, Produkte in einem Supermarkt zu scannen und zu identifizieren. Es muss folgende Anforderungen erfüllen:
+2.1. Hardware-Anforderungen
+•	Der Scanner muss eine integrierte Waage zur Gewichtsmessung haben.
+•	Der Scanner muss einen Barcode-Scanner zur Identifizierung von Produkten integrieren.
+•	Die Hardware muss kompakt und benutzerfreundlich sein.
+•	Die Bedienelemente müssen leicht zugänglich und intuitiv sein.
+2.2. Software-Anforderungen
+•	Die Software muss ein leistungsstarkes und präzises Bilderkennungssystem enthalten.
+•	Die Software muss die Identifizierung von Produkten anhand von Bildern ermöglichen.
+•	Die Benutzeroberfläche muss einfach und verständlich sein.
+•	Das System muss in der Lage sein, Produktinformationen anzuzeigen.
+3. Qualitätsanforderungen
+Das Produkt muss folgende Qualitätsstandards erfüllen:
+•	Die Hardware und Software müssen zuverlässig und fehlerfrei arbeiten.
+•	Die Bilderkennung muss eine hohe Genauigkeit aufweisen, insbesondere bei der Identifizierung von Produkten.
+•	Der Scanner muss schnell und effizient arbeiten.
+•	Die Benutzeroberfläche muss benutzerfreundlich sein.
+4. Lieferbarkeiten
+Der Auftragnehmer wird erwartet, folgende Lieferbarkeiten zu erbringen:
+•	Voll funktionsfähiger automatisierter Supermarktscanner mit allen erforderlichen Hardware- und Softwarekomponenten.
+•	Dokumentationen, die die Verwendung und Wartung des Produkts erläutern.
+•	Schulungsmaterialien für die Benutzer, um sicherzustellen, dass sie das Produkt effektiv nutzen können.
+5. Akzeptanzkriterien
+Die Akzeptanz des Produkts erfolgt anhand der folgenden Kriterien:
+•	Der Supermarktscanner muss in der Lage sein, eine vordefinierte Liste von Produkten zu scannen und zu identifizieren, wobei die Genauigkeit bei mindestens 95% liegen muss.
+•	Die Hardware muss fehlerfrei funktionieren und eine kontinuierliche Nutzung ermöglichen.
+•	Die Benutzer müssen in der Lage sein, das Produkt ohne umfangreiche Schulungen zu bedienen.
+6. Änderungskontrolle
+Änderungen am Lastenheft müssen schriftlich genehmigt werden und können Auswirkungen auf den Zeitplan und das Budget haben.
