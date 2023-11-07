@@ -43,17 +43,17 @@ Abgesehen davon kann das Lebensmittelprogramm sofort verwendet werden.
         >>python start.py
     Das Programm fragt nach vier Eingaben. Die BarcodeID, das Gewicht, das obere Bild und das seitliche Bild
     -Die BarcodeID kann 0-9 für die zehn verschiedenen Produkte sein. Die Produkte sind in der Datei product.json 
-    Datei aufgelistet, zusammen mit ihren BarcodeIDs. Die BarcodeID -1 steht für no-barcode. Nur wenn no-barcode angegeben wird 
-    wird das Programm die Bilderkennung verwenden? Damit soll der Vorschlag aus der Präsentation umgesetzt werden, 
-    nämlich die Bilderkennung nur für Produkte ohne Barcode, wie z.B. Obst, zu verwenden. Einige der 
-    Produkte, für die wir die Bilderkennung trainiert haben, haben tatsächlich Barcodes, wie die Tomatendose, aber wenn die 
-    BarcodeID -1 eingegeben wird, tut das Programm so, als hätten sie keine Strichcodes und seien Früchte. 
-    Dies geschah, weil uns die nötige Zeit fehlte, um 6400 Bilder von Produkten mit Barcode
-    durch Bilder von Früchten zu ersetzen. Die Bilder müssten nicht nur neu aufgenommen werden, sondern auch neu beschriftet werden 
-    und die KI müsste neu trainiert werden.
-    -Das Gewicht. Da es sich nur um ein Programm und nicht um das eigentliche Gerät handelt, ist keine Waage implementiert und 
-    der Benutzer gibt das Gewicht von Hand ein. Die Gewichtsbereiche der Produkte finden sich wiederum in der 
-    der Datei product.json.
+    Datei aufgelistet, zusammen mit ihren BarcodeIDs. Die BarcodeID -1 steht für no-barcode. Nur wenn no-barcode 
+    angegeben wird, wird das Programm die Bilderkennung verwenden? Damit soll der Vorschlag aus der Präsentation 
+    umgesetzt werden, nämlich die Bilderkennung nur für Produkte ohne Barcode, wie z.B. Obst, zu verwenden. 
+    Einige der Produkte, für die wir die Bilderkennung trainiert haben, haben tatsächlich Barcodes, wie die 
+    Tomatendose, aber wenn die BarcodeID -1 eingegeben wird, tut das Programm so, als hätten sie keine Strichcodes 
+    und seien Früchte. Dies geschah, weil uns die nötige Zeit fehlte, um 6400 Bilder von Produkten mit Barcode
+    durch Bilder von Früchten zu ersetzen. Die Bilder müssten nicht nur neu aufgenommen werden, sondern auch neu 
+    beschriftet werden und die KI müsste neu trainiert werden.
+    -Das Gewicht. Da es sich nur um ein Programm und nicht um das eigentliche Gerät handelt, ist keine Waage 
+    implementiert und der Benutzer gibt das Gewicht von Hand ein. Die Gewichtsbereiche der Produkte finden sich 
+    wiederum in der der Datei product.json.
     -Die Bilder von oben und von der Seite. Diese stellen die Bilder dar, die die Kameras des Geräts aufgenommen hätten. 
     Die Bildquelle kann verschiedene Formate haben.
         1. Vollständiger Dateipfad
